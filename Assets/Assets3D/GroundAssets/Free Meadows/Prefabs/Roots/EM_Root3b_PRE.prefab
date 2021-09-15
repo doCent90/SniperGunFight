@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6767951136838193732}
   - component: {fileID: 7805669593931804807}
   - component: {fileID: 5140804515696441844}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Root3b_LOD0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51,10 +51,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -79,6 +81,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &7103519515450169318
 GameObject:
   m_ObjectHideFlags: 0
@@ -89,7 +92,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7628840416066276700}
   - component: {fileID: 3424154470060702253}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Root3b_PRE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -151,7 +154,7 @@ GameObject:
   - component: {fileID: 7881505964376878570}
   - component: {fileID: 3218712794869398732}
   - component: {fileID: 7273824135798866901}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Root3b_LOD1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -191,10 +194,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -219,6 +224,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &8660656940910709721
 GameObject:
   m_ObjectHideFlags: 0
@@ -231,7 +237,7 @@ GameObject:
   - component: {fileID: 6657896264746101127}
   - component: {fileID: 4205094991678023748}
   - component: {fileID: 8663532809041027323}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Root3b_LOD2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -271,10 +277,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -299,6 +307,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!64 &8663532809041027323
 MeshCollider:
   m_ObjectHideFlags: 0

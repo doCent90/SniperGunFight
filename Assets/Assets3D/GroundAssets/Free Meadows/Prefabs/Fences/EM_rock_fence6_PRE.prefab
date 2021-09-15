@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2006375163732991854}
   - component: {fileID: 6737961451110410271}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_rock_fence6_PRE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72,7 +72,7 @@ GameObject:
   - component: {fileID: 4107842182881593930}
   - component: {fileID: 2365398724645356577}
   - component: {fileID: 7989073779915682900}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_rock_fence6_LOD0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -112,10 +112,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -140,6 +142,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &7753107114486995171
 GameObject:
   m_ObjectHideFlags: 0
@@ -152,7 +155,7 @@ GameObject:
   - component: {fileID: 374414298572317185}
   - component: {fileID: 7106650308825260465}
   - component: {fileID: 8838315590989948639}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_rock_fence6_LOD2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -192,10 +195,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -220,6 +225,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!64 &8838315590989948639
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -245,7 +251,7 @@ GameObject:
   - component: {fileID: 7221004577179440682}
   - component: {fileID: 8079051702764166849}
   - component: {fileID: 2400889573242776945}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_rock_fence6_LOD1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -285,10 +291,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -313,3 +321,4 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}

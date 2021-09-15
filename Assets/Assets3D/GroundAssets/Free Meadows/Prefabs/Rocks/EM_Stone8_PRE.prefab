@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4490412201532896}
   - component: {fileID: 3268447152957117168}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Stone8_PRE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72,7 +72,7 @@ GameObject:
   - component: {fileID: 6036094374517776814}
   - component: {fileID: 6620527742773524253}
   - component: {fileID: 713204490283645148}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Stone8_LOD1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -112,10 +112,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -140,6 +142,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &7795913046776851998
 GameObject:
   m_ObjectHideFlags: 0
@@ -151,7 +154,7 @@ GameObject:
   - component: {fileID: 1686438005287472111}
   - component: {fileID: 4926690667026636882}
   - component: {fileID: 1740129079514321151}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Stone8_LOD2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -191,10 +194,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -219,6 +224,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &7929124773215462600
 GameObject:
   m_ObjectHideFlags: 0
@@ -231,7 +237,7 @@ GameObject:
   - component: {fileID: 4510932866341788852}
   - component: {fileID: 5575447818241222854}
   - component: {fileID: 628170779352520566}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Stone8_LOD0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -271,10 +277,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -299,6 +307,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!64 &628170779352520566
 MeshCollider:
   m_ObjectHideFlags: 0
