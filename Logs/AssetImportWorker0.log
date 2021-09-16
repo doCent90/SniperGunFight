@@ -1,0 +1,1359 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1202; Version 2009; 64bit' Language: 'ru' Physical Memory: 16332 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+G:\1\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Git/SniperGunFight
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57214
+Successfully changed project path to: D:/Git/SniperGunFight
+D:/Git/SniperGunFight
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 148.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path G:/1/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Git/SniperGunFight/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 570 Series (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     8171 MB
+    Driver:   27.20.12029.1000
+Initialize mono
+Mono path[0] = 'G:/1/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'G:/1/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'G:/1/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56980
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: G:/1/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004018 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 107.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.963 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003462 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.162 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.7 MB.
+System memory in use after: 146.8 MB.
+
+Unloading 103 unused Assets to reduce memory usage. Loaded Objects now: 3302.
+Total: 2.717900 ms (FindLiveObjects: 0.257500 ms CreateObjectMapping: 0.074200 ms MarkObjects: 2.189200 ms  DeleteObjects: 0.196000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Root2b.fbx
+  artifactKey: Guid(b01eb54d1a48a0143b2a817b87fd5cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Root2b.fbx using Guid(b01eb54d1a48a0143b2a817b87fd5cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6caf5ee9aeb79ebf10b901ed3fb7449d') in 0.332252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_wood_fence3.fbx
+  artifactKey: Guid(7971f9edb13c46f4d850ef0bcbc884cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_wood_fence3.fbx using Guid(7971f9edb13c46f4d850ef0bcbc884cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e616b3a45bc0618b6ccc56e5ba1e1f2e') in 0.043690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_rock_fence2.fbx
+  artifactKey: Guid(bd67890733e3d47448d701f0fcea7819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_rock_fence2.fbx using Guid(bd67890733e3d47448d701f0fcea7819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1057ceac72e3f3676081183304014885') in 0.033357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Tree3a.fbx
+  artifactKey: Guid(aceb601719d5db1459f09b05f758ec0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Tree3a.fbx using Guid(aceb601719d5db1459f09b05f758ec0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8ce0ad18e612925e43f536f55eb10bc') in 0.034793 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Rock19.fbx
+  artifactKey: Guid(0e68c936b14b0ed478abb9cc325b01f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Rock19.fbx using Guid(0e68c936b14b0ed478abb9cc325b01f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b362d58a2df66f9ba23b607f4401a815') in 0.036270 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Rock37.fbx
+  artifactKey: Guid(4d16e569dc5c73748959b570bf6f9e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Rock37.fbx using Guid(4d16e569dc5c73748959b570bf6f9e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f73285ddd41717f287be4aef1a060ef') in 0.032611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Tree2b.fbx
+  artifactKey: Guid(007a53a5f51cb6949abbbfb74b6d351b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Tree2b.fbx using Guid(007a53a5f51cb6949abbbfb74b6d351b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097ecb871664072791c08173763eb8ac') in 0.035029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_rock_fence3.fbx
+  artifactKey: Guid(30d9114dd6bae8e41960c43acbddbe8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_rock_fence3.fbx using Guid(30d9114dd6bae8e41960c43acbddbe8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c9de4967cbd94db6f344c4dd410a4e') in 0.033590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_rock_fenceBrick_01.fbx
+  artifactKey: Guid(b31ede1c772d6e344a1ae70cd40e958d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_rock_fenceBrick_01.fbx using Guid(b31ede1c772d6e344a1ae70cd40e958d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be60fe4dafc3b51ff70393d6742f97a') in 0.034518 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Stone1.fbx
+  artifactKey: Guid(38d1accb29a264d4d8d96204abbf785e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Stone1.fbx using Guid(38d1accb29a264d4d8d96204abbf785e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58249a97a0a1996be71387225c0fc526') in 0.034423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Root3b.fbx
+  artifactKey: Guid(d6de51f925c9fa545b6ae266b7a0bba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Root3b.fbx using Guid(d6de51f925c9fa545b6ae266b7a0bba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f04cfb20a08217af3bb89b20bacdfa2d') in 0.035537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_wood_fence3b.fbx
+  artifactKey: Guid(2223d9f8e9703124db4cdffc45a17d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_wood_fence3b.fbx using Guid(2223d9f8e9703124db4cdffc45a17d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f106f05592ddfc11f0367d391ccedc88') in 0.031939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Tree9a.fbx
+  artifactKey: Guid(325f149dd82d7da4395c803622bee0b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Tree9a.fbx using Guid(325f149dd82d7da4395c803622bee0b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d8f8e4e2189d006cf149cd03e0499f') in 0.036822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_wood_fence3c.fbx
+  artifactKey: Guid(6e5150349a0ca2a4fa463306d2abd3fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_wood_fence3c.fbx using Guid(6e5150349a0ca2a4fa463306d2abd3fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e980b439c31dc3d21d38b223dfe8a6b4') in 0.032676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Stone8.fbx
+  artifactKey: Guid(f346bb1a101c1f64490f41d17077ffb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Stone8.fbx using Guid(f346bb1a101c1f64490f41d17077ffb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14bf0807d58b6a08b54986108faaf7ee') in 0.034318 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_rock_fence5.fbx
+  artifactKey: Guid(34d07a9bf2aa0dd4a971e02e7153a24e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_rock_fence5.fbx using Guid(34d07a9bf2aa0dd4a971e02e7153a24e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e43d99a4a4a41cc4aea2831aec9cfdc0') in 0.031672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Root4a.fbx
+  artifactKey: Guid(0e749b71e39d0654a9a8e1b118717a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Root4a.fbx using Guid(0e749b71e39d0654a9a8e1b118717a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '623d8ee65bb22017324adda0eee0eb55') in 0.032047 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Root4b.fbx
+  artifactKey: Guid(a62f2b36b3386ba449979aa133716f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Root4b.fbx using Guid(a62f2b36b3386ba449979aa133716f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c050ba9e7a5be3cc69191cbf97d69c') in 0.033908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Stone9.fbx
+  artifactKey: Guid(4c2f11536d79b9d4990d94c7b63a2581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Stone9.fbx using Guid(4c2f11536d79b9d4990d94c7b63a2581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7224469f045c0abb5e49ab560667ce3') in 0.035277 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Tree1b.fbx
+  artifactKey: Guid(85a89b77c470fe44ba0b1f51aefffc0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Tree1b.fbx using Guid(85a89b77c470fe44ba0b1f51aefffc0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa5fe47b99cdcbd30acaf713e5726c41') in 0.036431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_rock_fence6.fbx
+  artifactKey: Guid(004e39c96737c104bba789f079d5f222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_rock_fence6.fbx using Guid(004e39c96737c104bba789f079d5f222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7c0e1e2c8706debf8da51acdff2302f') in 0.037419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Tree1a.fbx
+  artifactKey: Guid(3338671b078f6184d9530ee83999bab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Tree1a.fbx using Guid(3338671b078f6184d9530ee83999bab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ea1aa71e72160ea5ae026bb4d1ffd3') in 0.043677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Tree2a.fbx
+  artifactKey: Guid(50578a73428c8cb478ef3d1596d57722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Tree2a.fbx using Guid(50578a73428c8cb478ef3d1596d57722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c66de6940da10c98ad06df21a7e5ef32') in 0.034531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_rock_fence4.fbx
+  artifactKey: Guid(1e0a1b3475576b04ba1f35e2696fb8a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_rock_fence4.fbx using Guid(1e0a1b3475576b04ba1f35e2696fb8a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dcf6118682585cc08c5da6259069562') in 0.033426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_rock_fence7.fbx
+  artifactKey: Guid(95ae310d7b7e88548b3f0dbe9efe3db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_rock_fence7.fbx using Guid(95ae310d7b7e88548b3f0dbe9efe3db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fffeef857b78d8e93e32d942bb98967e') in 0.032574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Tree3b.fbx
+  artifactKey: Guid(a8121e48189e84e418d4150e3f69c4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Tree3b.fbx using Guid(a8121e48189e84e418d4150e3f69c4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b5d07dff14db3cd6c1ff85edbc8674f') in 0.033612 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Root3a.fbx
+  artifactKey: Guid(eb004f99778df9b42b92045cc9a6a008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Root3a.fbx using Guid(eb004f99778df9b42b92045cc9a6a008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '957245d7926697baab97d563680fd329') in 0.032902 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Root2a.fbx
+  artifactKey: Guid(d496f6f5e3206b6489297df2dd372132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets3D/GroundAssets/Free Meadows/Meshes/EM_Root2a.fbx using Guid(d496f6f5e3206b6489297df2dd372132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3338ae2ae4a3aa692e89cd2377cb407') in 0.034523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 93.063102 seconds.
+  path: Assets/Scenes/LVL1.unity
+  artifactKey: Guid(aa00c370942f3464b99ba96b0c1901bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LVL1.unity using Guid(aa00c370942f3464b99ba96b0c1901bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd279dffb03d5abdb5a48bfa6976096fd') in 0.003607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.047465 seconds.
+  path: Assets/Scenes/LVL2.unity
+  artifactKey: Guid(47527060053c7df47b4ebe69e1bf3d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LVL2.unity using Guid(47527060053c7df47b4ebe69e1bf3d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2b539658767be2a442e40503057a2a') in 0.004343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.570875 seconds.
+  path: Assets/Scenes/LVL3.unity
+  artifactKey: Guid(d404aea83c8ea8b43ae99ff6465db1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LVL3.unity using Guid(d404aea83c8ea8b43ae99ff6465db1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f63b0059b6d8393bf946aa76fadaf4b') in 0.003939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.823655 seconds.
+  path: Assets/Scenes/LVL4.unity
+  artifactKey: Guid(22724634e7722484ba1969901aabcb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LVL4.unity using Guid(22724634e7722484ba1969901aabcb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56175bc1e244d7c95a5f4d0167e1ad8e') in 0.003983 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.520213 seconds.
+  path: Assets/Scenes/LVL2.unity
+  artifactKey: Guid(47527060053c7df47b4ebe69e1bf3d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LVL2.unity using Guid(47527060053c7df47b4ebe69e1bf3d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30cbc397b43cfbd11d10d514733ffa38') in 0.003817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 80.233984 seconds.
+  path: Assets/Scenes/test.unity
+  artifactKey: Guid(e18ad8cb93a72d2449c6d15c354a5b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/test.unity using Guid(e18ad8cb93a72d2449c6d15c354a5b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '376d2ab78da32593f5ad80d045be6ded') in 0.003970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.607580 seconds.
+  path: Assets/Prefabs/ParticalFX/Blood.prefab
+  artifactKey: Guid(95b78a9c96a95484584b747f68a7c6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Blood.prefab using Guid(95b78a9c96a95484584b747f68a7c6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c11ce86ea05ebcd55307063c2b7c7aab') in 0.010882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Prefabs/ParticalFX/Trail.prefab
+  artifactKey: Guid(8f0f8c25163e87843b9241ee4ba3a85f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Trail.prefab using Guid(8f0f8c25163e87843b9241ee4ba3a85f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c17e418c9f252221d8528eb72d727f') in 0.005415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Prefabs/ParticalFX/Shoot.prefab
+  artifactKey: Guid(31d86f0d44afc3743aa627298cd6081c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Shoot.prefab using Guid(31d86f0d44afc3743aa627298cd6081c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a2a0a594330bb8175ac98a19b5e0a27') in 0.006036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9b98880d2b97c4e17e61910a7740b58') in 0.006145 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.320419 seconds.
+  path: Assets/Materials/Laser.mat
+  artifactKey: Guid(72b8edc7faec0b14e9419442feb747e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Laser.mat using Guid(72b8edc7faec0b14e9419442feb747e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ac49ff6ebab5836ca0e3f6f21d7005') in 0.012693 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004262 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.069 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.6 MB.
+System memory in use after: 142.8 MB.
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3348.
+Total: 2.414100 ms (FindLiveObjects: 0.395200 ms CreateObjectMapping: 0.169100 ms MarkObjects: 1.715500 ms  DeleteObjects: 0.132200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 80.854962 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692efbe1eace76eca1279b7be6c68fba') in 0.037266 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.827233 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beaa197d548fd0eb71e6e0a10b710875') in 0.007990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.905350 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80dbc67909b34a55c45436079dc2494b') in 0.007082 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.649170 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8f215ca6b73690749181f4abf33e41') in 0.006840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.157592 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '960c265c1d249752fabb89f08e6c65c5') in 0.008593 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.034174 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65b3f6536677cab6ba36832b607e5e46') in 0.006426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.952551 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f9fd42e69ca936800bfa1a773ceeca') in 0.005526 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003990 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.073 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.7 MB.
+System memory in use after: 142.8 MB.
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3351.
+Total: 2.553400 ms (FindLiveObjects: 0.282500 ms CreateObjectMapping: 0.093100 ms MarkObjects: 2.058900 ms  DeleteObjects: 0.117300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 111.912442 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e116365d0a1c48d3dbe73b3296fce6ad') in 0.033593 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.689621 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f91f1e1e1c0cdc4f6115028758990767') in 0.008146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.693027 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac33afe65f43c8140a1e750fded69f1c') in 0.006932 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.155613 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1414c327a6a26245b3c623c4d70140a') in 0.005600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.696464 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b43d1524e57999478d233ce13da2f4d') in 0.007945 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.324761 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5efc089528d6f95bc23498289b9606b3') in 0.005220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.827430 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45efe7e437048cf8151626e88aab380f') in 0.010606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.742822 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac580c66e3671fe45bac21d2db4f81f') in 0.006077 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003868 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.062 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.7 MB.
+System memory in use after: 142.9 MB.
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3354.
+Total: 2.406700 ms (FindLiveObjects: 0.312300 ms CreateObjectMapping: 0.096400 ms MarkObjects: 1.881100 ms  DeleteObjects: 0.115600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 26.620274 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e089fa65b3de642bc5a4cf450f4f934f') in 0.033967 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003385 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.082 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.7 MB.
+System memory in use after: 142.9 MB.
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3357.
+Total: 2.398100 ms (FindLiveObjects: 0.257200 ms CreateObjectMapping: 0.104500 ms MarkObjects: 1.869700 ms  DeleteObjects: 0.165400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 24.465687 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '024743900092956fee981027c3a99548') in 0.031354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.360803 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a923202a44864d32e3d2e91097200ca') in 0.006911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.995157 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4befc8b16c299c82a8d7c974af48918d') in 0.005461 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003281 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.122 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.7 MB.
+System memory in use after: 142.9 MB.
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3360.
+Total: 3.166300 ms (FindLiveObjects: 0.398000 ms CreateObjectMapping: 0.100400 ms MarkObjects: 2.521500 ms  DeleteObjects: 0.145000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 41.165127 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '498a996fd408eb87b816581f40108d15') in 0.036841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.052035 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03ccd9361ed49ab7927aa3dff9fc827d') in 0.011276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.600141 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d613f05afbfa13235ffeea715cadb0a') in 0.005471 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.641265 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a2898c6a7db37a39a48f62e281a944') in 0.008475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.665041 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ed6efc4ee81fa6512b1a9caab2c3aec') in 0.005087 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003197 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.100 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.8 MB.
+System memory in use after: 142.9 MB.
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3363.
+Total: 2.311700 ms (FindLiveObjects: 0.264100 ms CreateObjectMapping: 0.072800 ms MarkObjects: 1.855000 ms  DeleteObjects: 0.118900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 160.895311 seconds.
+  path: Assets/Scenes/test.unity
+  artifactKey: Guid(e18ad8cb93a72d2449c6d15c354a5b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/test.unity using Guid(e18ad8cb93a72d2449c6d15c354a5b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd251ce75f7c9759a61d5facbec292c4') in 0.013673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.305978 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '054992b9dc51af5fd04173421e4d5e72') in 0.025121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.808353 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84782356515218e0da5454ffbb97ea5f') in 0.010998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.489436 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0d2861f60500f05bd29199894f7bb5') in 0.149337 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.060094 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7812d8814591eeeed49617ee8a661de8') in 0.005271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.491145 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289988fcecf3b00d1602f8d2b589f7dd') in 0.075601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.252498 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1b44576deaeaaa0745db30b1bc2f58') in 0.005324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.478317 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd91e0b1b98a4c6721009354a52c916') in 0.073691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.220098 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f1699c0348d7067b50c518ed39983f9') in 0.006031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.360297 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c115f2a217dd1a2879754e0146f8358') in 0.019537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.226759 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b6429be7db43fb555a54689b404fac5') in 0.005680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.259467 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199ed22c1984f4ef1133d294ed4f6e55') in 0.005720 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.412677 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5892d62b48432f0afce38b132d95db5') in 0.005196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.778950 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee340ade63a81844c8bd982a0e8620a6') in 0.005956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.717688 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c540a560738b85e8041b3b08e1b4730d') in 0.005987 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.269500 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f0f6b2585bcf03d624b18546de845b') in 0.005217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.786821 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '484bae7b0426028ef274d0752f576ed8') in 0.005254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.453255 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21362d15aca1c876a0945d4e5f1b5d83') in 0.005295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.842036 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7953984c284ed4358d4fcbde8cc81ce0') in 0.005547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.575824 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c1f74355944fcbd3b19715ae0f05d6') in 0.005262 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.249867 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '608b8b46218a95ee14bb86527954936a') in 0.005458 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.613861 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da3cfba865f75c73467e17cbec90dcd') in 0.005445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.417531 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b066e2091d682d2e8475f282825337da') in 0.005417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.443559 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c4a15ff1bea660f2912c4525e4c588') in 0.005998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.404607 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e819d2a567f45f222d8281dc138a71bd') in 0.005546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.309626 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6910111596e90cafa09969f687300370') in 0.005756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.383320 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97fb90078cafb6e4762334846e9ddc17') in 0.005948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.404990 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2568d87858c021df5ec4a20e033f8fb') in 0.005184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.233153 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2408ae8d7f902d7668ee082bea2a0120') in 0.005823 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.349710 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19792bf9fda6bd9d465c942192ab0297') in 0.005340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.420694 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc2f5cfb75b06fda43dcac8a3203bd25') in 0.005407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.024091 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a019b17549ae84d09f953c761c6c922a') in 0.005293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.635174 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6307d160858a0ff7dfbffcbf2c7b5c70') in 0.005044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.795017 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d3d3bf5bddcbfc7c538f792db9d6634') in 0.005177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.808932 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '188aeb06dc2eb789683dfbe44cbce8c1') in 0.006126 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.413844 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e500705688625783ca50b433d40062c') in 0.005925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.809352 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd608ba6e990829e5dc76828203e7a3bc') in 0.005503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.405544 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1f1baa5cbcaf30c3c131fe2330ee4d4') in 0.005497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.218076 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd033ed3f45982f9c39fc963a20f41e66') in 0.005488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.408901 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f621e8edd4b0131a8cef54b5aebb8f9') in 0.005164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.403794 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5606bdc801d98f006f6391f29b4ed3fd') in 0.005534 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.219213 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbfb37281ff2774a0f0b06d9cfc7f65c') in 0.006051 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.400094 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef48bf884b241f9f569baa8a66688185') in 0.005423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.225778 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee521e66e8052350cdaf86ae70a2e70e') in 0.005429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.396946 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4fb7aedc888aac769dbf75d889c8261') in 0.006237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.437779 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecc4e19ee11c96ec71da9240e4a89b65') in 0.005333 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.376757 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea3c39f954b16991af1982c6b173de79') in 0.005077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.218120 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78de024e149e906018721f00acbd2d0a') in 0.005418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.434358 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33253a05b3ac4bcb96ca64d5e11ecdd1') in 0.005196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.416953 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d66c00391502f05828fef84ef2c2f6a') in 0.005500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.399597 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee4b104e6c33d0ea538265ee08736c4') in 0.005574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.219858 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f78e143195a9077938132b6e386b15ed') in 0.005493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.404694 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afe79bb6a1ff64b2df6852e76fe96315') in 0.005420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.610534 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '317ae92a5bd05537a33da8e804fe35a4') in 0.006081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.727512 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddbc45fdf1f7564047bba5b9f3866bc9') in 0.005473 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.203311 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e243d7e1cb3dd5c4eae20471cfc1dd4d') in 0.005433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.610056 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '455f96b1d593a2da7197b48cd2a364ae') in 0.005600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.252345 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8887ca52ba09bffab6acb038ec2a5206') in 0.005406 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.096561 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24298629ea4c91ded20091ffa0e8120e') in 0.005484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.404366 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f78d6f763d0621f591eca9f060136d1c') in 0.005127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.222869 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8d44459976118f377672d00db1725ee') in 0.005187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.400916 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e849bc91bd64bdc66010a06a2ee1a3fe') in 0.005571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.252689 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11162b54b0898ab6658c68f70cdb47c6') in 0.005590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.379430 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b0d43f252a318be7bc7ecda781ae81e') in 0.005477 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.219776 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1524bc8b47c887aac801b5fa5bb0ecd5') in 0.006400 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.233817 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3dfcb5158735115cd4c76cbc1c30bb7') in 0.005751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.420384 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '626603aadf5427a1b934caf9a8af917c') in 0.006646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.799068 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4be637e1f1ae0e1241578804065246d') in 0.005062 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.611634 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f80336f2a3767d034994999a65b3fdf1') in 0.005887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.311576 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '882bbc6990f730e87b9da062eedc8d4a') in 0.005240 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.593072 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ec2e4633f6d8c35c6ebb8e1bcb6ed69') in 0.005340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.400635 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c4dc93a498467c8618a700524a89b7') in 0.005344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.428456 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c5143ea76bdea9bb5d69b530f9269f8') in 0.005354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.382326 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6546726ee320fcabd1f5d32dbc0ec68') in 0.005960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.086706 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6631ce0992f4da8da272de8994439426') in 0.005450 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.381312 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46eb8854cb6b7831af8784edbf099868') in 0.005274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.744303 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f984524d04e405d22f7d5e2793fe26be') in 0.005256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.382155 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4a6cf40b3522c17286737f526447c21') in 0.005303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.243314 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d9b4c7fa42230781e1add1457fb264b') in 0.005170 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.490166 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b71cc85fe6fcc45402dd8f46155894a3') in 0.005340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.206481 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbf3b0e6e3059b911af9df648dd9deba') in 0.005171 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.765779 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17001e5ceafbcf171782d4710553c956') in 0.005289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.092363 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e55141e9755fb30fc88a64a6ae451dc') in 0.005147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.384385 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f708a415b248a342d9889b33aa74420b') in 0.006155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.724707 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb2e29a95a6176c3db16f5f8db23d7f1') in 0.006131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.335039 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4e814d9792bed5b2250f245dab73d60') in 0.005381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.788978 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e993d02427160fb92f65d1f8cdd13fc') in 0.005579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.946343 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297823ccd39b0e7ff6486cd0f9d03f26') in 0.011286 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003438 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.173 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2848 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.9 MB.
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3400.
+Total: 2.567300 ms (FindLiveObjects: 0.295800 ms CreateObjectMapping: 0.079800 ms MarkObjects: 2.058900 ms  DeleteObjects: 0.131500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 24.207889 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cdaede505ea424c0ccbf417f246256f') in 0.032246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.356186 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99af5cf3c351161f9a7f395b5228d8ca') in 0.006355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.799200 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85e6f158b55a07205f4fe30f124c0d59') in 0.005998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.006367 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23eeedee2a3d3679e4451a08c1e3ab3e') in 0.005526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.989321 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c5c7ca6060098cc341767430911d9c1') in 0.005993 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.371587 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15f8230629ad2480e2ba128c4edaf503') in 0.010518 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.242351 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f2aa583473468434e042e66c3ea3e64') in 0.006769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.876818 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e5ce32ca891334722100216900b3e58') in 0.005833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.249338 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d16da6632045b468d0a28cc96dd758') in 0.008564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.893985 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35f77d7a0bcc51fedc861af641bb8e0c') in 0.005034 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.340387 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452c1f895ddde7bccc9b5ec0e9f63bb8') in 0.011632 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003238 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.141 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.9 MB.
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3403.
+Total: 2.584700 ms (FindLiveObjects: 0.282400 ms CreateObjectMapping: 0.078600 ms MarkObjects: 2.097400 ms  DeleteObjects: 0.124700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003694 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.133 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.9 MB.
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3406.
+Total: 2.874100 ms (FindLiveObjects: 0.288800 ms CreateObjectMapping: 0.075300 ms MarkObjects: 2.363200 ms  DeleteObjects: 0.145400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 213.890717 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca504f035d0af1e494fd79b06c026db') in 0.032114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.158932 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7236d5dbab5d175d046477d462de012') in 0.005199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.423122 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e8d916fefdb86ef4527ce9ea640742') in 0.005462 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003301 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.224 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.9 MB.
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3409.
+Total: 2.686800 ms (FindLiveObjects: 0.404200 ms CreateObjectMapping: 0.171100 ms MarkObjects: 1.968100 ms  DeleteObjects: 0.142400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 84.065316 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31ff706bbf7834ab9af08409af27252f') in 0.033468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.319006 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2937862f56a68dcaf18fa12197593aa5') in 0.005494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.636537 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a0e01b01873d84d265c1c7c3ca888a5') in 0.005263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.960999 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e16a6550786c1ada3897ae9bc466bb8') in 0.005455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.832807 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53eca80afa2428a25bb42f9f269f5c21') in 0.005493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.827064 seconds.
+  path: Assets/Prefabs/ParticalFX/Laser.prefab
+  artifactKey: Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ParticalFX/Laser.prefab using Guid(4d98afd7b1ecc93488746e368dd35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '917eab28ecb51b3494816c8b6c70ac02') in 0.005762 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003713 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.236 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2846 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.9 MB.
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3412.
+Total: 2.177500 ms (FindLiveObjects: 0.266100 ms CreateObjectMapping: 0.075600 ms MarkObjects: 1.727400 ms  DeleteObjects: 0.107500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 31.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 96 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.3 MB.
+System memory in use after: 92.5 MB.
+
+Unloading 96 unused Assets to reduce memory usage. Loaded Objects now: 3412.
+Total: 2.454300 ms (FindLiveObjects: 0.332100 ms CreateObjectMapping: 0.080200 ms MarkObjects: 1.851600 ms  DeleteObjects: 0.188800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
