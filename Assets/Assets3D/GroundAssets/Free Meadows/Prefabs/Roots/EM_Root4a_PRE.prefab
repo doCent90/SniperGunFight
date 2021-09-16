@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 646661530068982749}
   - component: {fileID: 4702339019649226898}
   - component: {fileID: 8266348797613588247}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Root4a_LOD0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51,10 +51,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -79,6 +81,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &4170951723869491441
 GameObject:
   m_ObjectHideFlags: 0
@@ -90,7 +93,7 @@ GameObject:
   - component: {fileID: 879022302932236570}
   - component: {fileID: 603486798240458793}
   - component: {fileID: 7163839246908851127}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Root4a_LOD1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -130,10 +133,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -158,6 +163,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &6361402150124704698
 GameObject:
   m_ObjectHideFlags: 0
@@ -169,7 +175,7 @@ GameObject:
   - component: {fileID: 1561205825885207701}
   - component: {fileID: 7169097438729452738}
   - component: {fileID: 3936560480970498042}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Root4a_LOD2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -209,10 +215,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -237,6 +245,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &7830895098409777031
 GameObject:
   m_ObjectHideFlags: 0
@@ -247,7 +256,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7487020210830945597}
   - component: {fileID: 2431137444028029516}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Root4a_PRE
   m_TagString: Untagged
   m_Icon: {fileID: 0}

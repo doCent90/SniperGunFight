@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 [RequireComponent(typeof(Animator))]
 public class AttackState : StatePlayer
@@ -24,8 +25,12 @@ public class AttackState : StatePlayer
     private const string ShootAnimation = "Shoot";
     private const string TargetAnimation = "LockTarget";
 
+    public event UnityAction<bool> Attacked;
+
     private void OnEnable()
     {
+        Attacked?.Invoke(true);
+
         SetAnglePlayer();
 
         Time.timeScale = TimeScaleRapid;
@@ -42,6 +47,8 @@ public class AttackState : StatePlayer
 
     private void OnDisable()
     {
+        Attacked?.Invoke(false);
+
         Time.timeScale = TimeScaleNormal;
         _laser.SetActive(false);
         _animator.SetBool(TargetAnimation, false);

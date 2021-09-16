@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6460268657833504865}
   - component: {fileID: 8057491094760676180}
   - component: {fileID: 7790544473726232216}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Branch03a_LOD1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51,10 +51,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -79,6 +81,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &2529636193435946808
 GameObject:
   m_ObjectHideFlags: 0
@@ -90,7 +93,7 @@ GameObject:
   - component: {fileID: 2905035183995016578}
   - component: {fileID: 7929393854300971763}
   - component: {fileID: 7338777231124607451}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Branch03a_PRE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -166,7 +169,7 @@ GameObject:
   - component: {fileID: 5590043194530467327}
   - component: {fileID: 9208079020334227879}
   - component: {fileID: 1625903608269291008}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Branch03a_LOD0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -206,10 +209,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -234,6 +239,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &9154358257818812760
 GameObject:
   m_ObjectHideFlags: 0
@@ -245,7 +251,7 @@ GameObject:
   - component: {fileID: 1323554847635100898}
   - component: {fileID: 6162298877356897354}
   - component: {fileID: 5224777795156499046}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Branch03a_LOD2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -285,10 +291,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -313,3 +321,4 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}

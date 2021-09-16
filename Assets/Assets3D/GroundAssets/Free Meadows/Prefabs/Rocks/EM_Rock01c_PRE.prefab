@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6540555984788130571}
   - component: {fileID: 2662996857444405514}
   - component: {fileID: 7040625085935205366}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Rock01c_LOD1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51,10 +51,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -79,6 +81,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &2571135482070305475
 GameObject:
   m_ObjectHideFlags: 0
@@ -90,7 +93,7 @@ GameObject:
   - component: {fileID: 5366235994703745533}
   - component: {fileID: 5597586899902703414}
   - component: {fileID: 3060445304244690578}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Rock01c_LOD2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -130,10 +133,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -158,6 +163,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &3427868300919167344
 GameObject:
   m_ObjectHideFlags: 0
@@ -169,7 +175,7 @@ GameObject:
   - component: {fileID: 2655413637042897866}
   - component: {fileID: 7098784666712618171}
   - component: {fileID: 7967790989341506141}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Rock01c_PRE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -246,7 +252,7 @@ GameObject:
   - component: {fileID: 4954695760280330578}
   - component: {fileID: 7708703306128911366}
   - component: {fileID: 4053431579221724296}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_Rock01c_LOD0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -286,10 +292,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -314,6 +322,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!64 &4053431579221724296
 MeshCollider:
   m_ObjectHideFlags: 0

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1349581977659638512}
   - component: {fileID: 7498937118518864321}
   - component: {fileID: 8806779338736666760}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_wood_fence3b_LOD0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -52,10 +52,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -80,6 +82,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &8806779338736666760
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -104,7 +107,7 @@ GameObject:
   - component: {fileID: 3693354783640410457}
   - component: {fileID: 6840757200512268024}
   - component: {fileID: 5759163747466250636}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_wood_fence3b_LOD2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -144,10 +147,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -172,6 +177,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1 &3069774869389720646
 GameObject:
   m_ObjectHideFlags: 0
@@ -182,7 +188,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2436965638503491324}
   - component: {fileID: 7461278207209886093}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_wood_fence3b_PRE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -244,7 +250,7 @@ GameObject:
   - component: {fileID: 202936503946989132}
   - component: {fileID: 2567101054932631537}
   - component: {fileID: 1130869070216331801}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EM_wood_fence3b_LOD1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -284,10 +290,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -312,3 +320,4 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
