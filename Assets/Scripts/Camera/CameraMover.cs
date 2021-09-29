@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class CameraMover : MonoBehaviour
 {
-    [SerializeField] private Player _player;
-    [SerializeField] private AttackState _attackState;
-
+    private Player _player;
+    private AttackState _attackState;
     private Quaternion _startPosition;
+
     private bool _isReadyRotate;
 
     private const float Distance = 6f;
@@ -13,6 +13,9 @@ public class CameraMover : MonoBehaviour
 
     private void OnEnable()
     {
+        _player = FindObjectOfType<Player>();
+        _attackState = FindObjectOfType<AttackState>();
+
         _startPosition = transform.rotation;
         _isReadyRotate = false;
 
