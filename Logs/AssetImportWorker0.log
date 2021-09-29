@@ -15,11 +15,11 @@ D:/Git/SniperGunFight
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53007
+59128
 Successfully changed project path to: D:/Git/SniperGunFight
 D:/Git/SniperGunFight
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 158.35 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 161.50 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path G:/1/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
@@ -35,279 +35,19 @@ Initialize mono
 Mono path[0] = 'G:/1/2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'G:/1/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'G:/1/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56712
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56288
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: G:/1/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003167 seconds.
+Registered in 0.003011 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 141.45 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 151.99 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.895 seconds
+- Completed reload, in  1.925 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004139 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.74 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.114 seconds
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 1.67 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2922 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 149.7 MB.
-System memory in use after: 149.9 MB.
-
-Unloading 103 unused Assets to reduce memory usage. Loaded Objects now: 3316.
-Total: 2.251600 ms (FindLiveObjects: 0.256000 ms CreateObjectMapping: 0.073300 ms MarkObjects: 1.710100 ms  DeleteObjects: 0.211200 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Assets3D/PolygonApocalypse/Prefabs/FX/Misc/Materials/PolygonApocalypse_Texture_01_Cleaned.mat
-  artifactKey: Guid(3c6729960fd3b5b49a805ccd12e470ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Prefabs/FX/Misc/Materials/PolygonApocalypse_Texture_01_Cleaned.mat using Guid(3c6729960fd3b5b49a805ccd12e470ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c298836ebc408dc944690b31e95ab6e6') in 0.238922 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000283 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Prefabs/FX/Misc/Materials/PolygonFarm_Texture_01_A_2k.mat
-  artifactKey: Guid(15a644ae0a795f34daca314c891221d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Prefabs/FX/Misc/Materials/PolygonFarm_Texture_01_A_2k.mat using Guid(15a644ae0a795f34daca314c891221d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d660033a9db5be2e131dc8e94223880') in 0.009731 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000322 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Prefabs/FX/Misc/Materials/lambert1.mat
-  artifactKey: Guid(9dc5af04cbebc8b4fadf9151dee5fd0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Prefabs/FX/Misc/Materials/lambert1.mat using Guid(9dc5af04cbebc8b4fadf9151dee5fd0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db8bea0528b1b27aa91afd624aa7ce0f') in 0.014779 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003462 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.66 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.035 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 1.67 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 143.9 MB.
-System memory in use after: 144.1 MB.
-
-Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3359.
-Total: 2.244700 ms (FindLiveObjects: 0.264900 ms CreateObjectMapping: 0.125300 ms MarkObjects: 1.735600 ms  DeleteObjects: 0.117400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004137 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.64 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.057 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 1.75 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.0 MB.
-System memory in use after: 144.2 MB.
-
-Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3362.
-Total: 2.276400 ms (FindLiveObjects: 0.300100 ms CreateObjectMapping: 0.075800 ms MarkObjects: 1.762300 ms  DeleteObjects: 0.136800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Import Request.
-  Time since last request: 4997.659539 seconds.
-  path: Assets/Prefabs/Bullets/EnemyBullet.prefab
-  artifactKey: Guid(23a2bd742143e8847991b7bbcee36704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Bullets/EnemyBullet.prefab using Guid(23a2bd742143e8847991b7bbcee36704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf1fa927984b155bec7a2f97f647738') in 0.107949 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000334 seconds.
-  path: Assets/Prefabs/Bullets/PlayerBullet.prefab
-  artifactKey: Guid(1a59fb354926cee4d949df48388e0620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Bullets/PlayerBullet.prefab using Guid(1a59fb354926cee4d949df48388e0620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45e55cf0de79ca1ab95d596da364c55a') in 0.023925 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Prefabs/Bullets/rifle_bullet_1.fbx
-  artifactKey: Guid(c5e333f528c016846878d8a5c199bd00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Bullets/rifle_bullet_1.fbx using Guid(c5e333f528c016846878d8a5c199bd00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ff06cd3cb28040bfc14913157674f9') in 0.056541 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003427 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.67 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.092 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 1.73 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.2 MB.
-System memory in use after: 144.4 MB.
-
-Unloading 100 unused Assets to reduce memory usage. Loaded Objects now: 3369.
-Total: 2.238900 ms (FindLiveObjects: 0.278000 ms CreateObjectMapping: 0.082500 ms MarkObjects: 1.740200 ms  DeleteObjects: 0.136500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003987 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.66 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.063 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 1.72 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.2 MB.
-System memory in use after: 144.4 MB.
-
-Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3372.
-Total: 2.729900 ms (FindLiveObjects: 0.282900 ms CreateObjectMapping: 0.079300 ms MarkObjects: 2.224600 ms  DeleteObjects: 0.141600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003449 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.75 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.116 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 1.68 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.2 MB.
-System memory in use after: 144.4 MB.
-
-Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3375.
-Total: 2.776200 ms (FindLiveObjects: 0.361500 ms CreateObjectMapping: 0.095400 ms MarkObjects: 2.180400 ms  DeleteObjects: 0.137100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003443 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.84 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.094 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 1.79 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.2 MB.
-System memory in use after: 144.4 MB.
-
-Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3378.
-Total: 2.987800 ms (FindLiveObjects: 0.330300 ms CreateObjectMapping: 0.091300 ms MarkObjects: 2.426700 ms  DeleteObjects: 0.137500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004789 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 2.14 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.133 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 1.65 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.2 MB.
-System memory in use after: 144.4 MB.
-
-Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3381.
-Total: 2.646100 ms (FindLiveObjects: 0.344900 ms CreateObjectMapping: 0.309100 ms MarkObjects: 1.861300 ms  DeleteObjects: 0.129600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003450 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.77 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.198 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 1.75 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.3 MB.
-System memory in use after: 144.4 MB.
-
-Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3384.
-Total: 3.301200 ms (FindLiveObjects: 0.292600 ms CreateObjectMapping: 0.081900 ms MarkObjects: 2.774700 ms  DeleteObjects: 0.150600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004734 seconds.
+Registered in 0.004296 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
@@ -315,1069 +55,265 @@ Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 1.69 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.119 seconds
+- Completed reload, in  1.178 seconds
 Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 1.73 ms, found 1 plugins.
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 1.89 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.3 MB.
-System memory in use after: 144.4 MB.
+Unloading 2922 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.2 MB.
+System memory in use after: 150.4 MB.
 
-Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3387.
-Total: 2.878000 ms (FindLiveObjects: 0.291500 ms CreateObjectMapping: 0.075200 ms MarkObjects: 2.328100 ms  DeleteObjects: 0.181500 ms)
+Unloading 103 unused Assets to reduce memory usage. Loaded Objects now: 3319.
+Total: 2.339400 ms (FindLiveObjects: 0.255700 ms CreateObjectMapping: 0.077900 ms MarkObjects: 1.762400 ms  DeleteObjects: 0.242200 ms)
 
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
 Received Import Request.
-  Time since last request: 1721.575362 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_01_B.mat
-  artifactKey: Guid(fb119965ca92c404da5456d496233810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_01_B.mat using Guid(fb119965ca92c404da5456d496233810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b3492d77601a680acde807ce8a1218e') in 1.034862 seconds 
+  path: Assets/Scenes/LVL3.unity
+  artifactKey: Guid(d404aea83c8ea8b43ae99ff6465db1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LVL3.unity using Guid(d404aea83c8ea8b43ae99ff6465db1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '694179cb67fa9742a2b35a597fbd596d') in 0.050600 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000308 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_02_B.mat
-  artifactKey: Guid(a2aace2cbab93c640996780da6ca6670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_02_B.mat using Guid(a2aace2cbab93c640996780da6ca6670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad301a2e137512a9fc7b165588d72dbc') in 0.557475 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_03_C.mat
-  artifactKey: Guid(8168ad9986caa61439156dd16d0ec078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_03_C.mat using Guid(8168ad9986caa61439156dd16d0ec078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5f503a809a967c830015fbb98feaaa7') in 0.592183 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_01_C.mat
-  artifactKey: Guid(4fe683c5738cbb04fa4778c9029e704b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_01_C.mat using Guid(4fe683c5738cbb04fa4778c9029e704b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b2aa34742e45be6ef9bb051c4d772f4') in 0.578418 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Vehicle_02.mat
-  artifactKey: Guid(eaee2fff52c59be4e9716394562cde00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Vehicle_02.mat using Guid(eaee2fff52c59be4e9716394562cde00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0685b90c1b78b9f139300b542d359fd') in 0.586395 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Burnt_01.mat
-  artifactKey: Guid(13644001c69de804a96a98ebe2065c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Burnt_01.mat using Guid(13644001c69de804a96a98ebe2065c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119637cbb569085def651a518d42d079') in 0.620699 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Vehicle_03.mat
-  artifactKey: Guid(a7d5a7f754a806541a3f58d31808f715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Vehicle_03.mat using Guid(a7d5a7f754a806541a3f58d31808f715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0dcc072685ad65e4d2448a9670489cd') in 0.248125 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_03_B.mat
-  artifactKey: Guid(484e3183d41b9e949800e14032f1a403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_03_B.mat using Guid(484e3183d41b9e949800e14032f1a403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2b91b448f809af3b656349fe685ff8f') in 0.611035 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000346 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_04_B.mat
-  artifactKey: Guid(90abb4dec0394b54daba2c24ce40112c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_04_B.mat using Guid(90abb4dec0394b54daba2c24ce40112c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d2289b5082607c7aaa72cac7d2f0657') in 0.573779 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000299 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Vehicle_01.mat
-  artifactKey: Guid(1c4f1f768826506478cd7b4f02f32157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Vehicle_01.mat using Guid(1c4f1f768826506478cd7b4f02f32157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70ae534ff5d1e4273295ffe848077d4') in 0.239913 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Road_01_Triplanar.mat
-  artifactKey: Guid(0258a4f857570cf47a2c58eb2421fa13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Road_01_Triplanar.mat using Guid(0258a4f857570cf47a2c58eb2421fa13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d8326366764b82c333a0b8b8cbab400') in 0.410410 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000295 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Veh/PolygonApocalypse_Veh_Texture_01_Mud.png
-  artifactKey: Guid(5bcafdb535777e948be8fb9202cb4a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Veh/PolygonApocalypse_Veh_Texture_01_Mud.png using Guid(5bcafdb535777e948be8fb9202cb4a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f539466c6d9bec1a9c858d65bde639d4') in 0.085765 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Veh_Emissive_Texture_01.png
-  artifactKey: Guid(f078ac08c2bacee49a15411ba259493b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Veh_Emissive_Texture_01.png using Guid(f078ac08c2bacee49a15411ba259493b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '032e9579389e036289eb5271471a6d92') in 0.056861 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000261 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Misc/Dirt_01.png
-  artifactKey: Guid(78ca77e891b851e42bb0307eec17e241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Misc/Dirt_01.png using Guid(78ca77e891b851e42bb0307eec17e241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9e234ac65551b883c55d0f8abe19ac6') in 0.021114 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000287 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Road_Normal.png
-  artifactKey: Guid(b27772baa47581f45b3ee062e679d8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Road_Normal.png using Guid(b27772baa47581f45b3ee062e679d8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f60f51f7650ae8e7f4c879aab861aa83') in 0.062074 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Blood.png
-  artifactKey: Guid(ab3c9c81285cc4443b3b62ab3ba16da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Blood.png using Guid(ab3c9c81285cc4443b3b62ab3ba16da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f06d514468710c2d6e2d9e1f7fc642') in 0.054025 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Vehicle_04.mat
-  artifactKey: Guid(1eeeed47bdfdce44cb0d46a300e99b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Vehicle_04.mat using Guid(1eeeed47bdfdce44cb0d46a300e99b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebbe5ac8bdc013cb01a7f9a831bb918e') in 0.197970 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_04_C.mat
-  artifactKey: Guid(d3d8f3bfc608ee247acf8107a92f0ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_04_C.mat using Guid(d3d8f3bfc608ee247acf8107a92f0ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c41e5e75504e85b9e8590c7bcccfb503') in 0.612999 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalyse_Road_01.png
-  artifactKey: Guid(f467cf2c4c0f7e24c98893124117b833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalyse_Road_01.png using Guid(f467cf2c4c0f7e24c98893124117b833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34bbf81b27ef53f1c48003acb5574cbf') in 0.026209 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000324 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Vehicle_05.mat
-  artifactKey: Guid(a6ec8d9cb6335dc4aab8be7278122547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Vehicle_05.mat using Guid(a6ec8d9cb6335dc4aab8be7278122547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e22f4a2295da91e81f57549225f6534') in 0.188598 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Vehicle_06.mat
-  artifactKey: Guid(0a469233735d78a44bfc0d328816260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_Vehicle_06.mat using Guid(0a469233735d78a44bfc0d328816260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0350c16c9b7bb4aaa2438c9fd89e052') in 0.211077 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000296 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_02_C.mat
-  artifactKey: Guid(2cac6cd3bf32cab4d91d9cb9ce084bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Alts/PolygonApocalypse_Material_02_C.mat using Guid(2cac6cd3bf32cab4d91d9cb9ce084bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b33ab619af5b31f954998682b304dca4') in 0.407936 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.581590 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Veh/PolygonApocalypse_Veh_Texture_02.png
-  artifactKey: Guid(98b44f88390fa934588bd0b48a0fb10c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Veh/PolygonApocalypse_Veh_Texture_02.png using Guid(98b44f88390fa934588bd0b48a0fb10c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c289b8e09c9d15daa80e134c710a4fc9') in 0.061649 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.360516 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Veh/PolygonApocalypse_Veh_Texture_03.png
-  artifactKey: Guid(b39b1be39d120b641b14960d925abc84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Veh/PolygonApocalypse_Veh_Texture_03.png using Guid(b39b1be39d120b641b14960d925abc84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e7de487fbf7b009fc6b3feaf241d2db') in 0.059009 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.337894 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Veh/PolygonApocalypse_Veh_Texture_04.png
-  artifactKey: Guid(d42000df27bfdef46b1acbff956a0b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Veh/PolygonApocalypse_Veh_Texture_04.png using Guid(d42000df27bfdef46b1acbff956a0b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35ec10779cabf24d4ab1daa0adaf4dee') in 0.057442 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.302655 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Veh/PolygonApocalypse_Veh_Texture_05.png
-  artifactKey: Guid(c534b29903370914aa7dafb356bed5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Veh/PolygonApocalypse_Veh_Texture_05.png using Guid(c534b29903370914aa7dafb356bed5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '209e7a9465a9aa6dd1237748c4b7e256') in 0.079230 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.282768 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Veh/PolygonApocalypse_Veh_Texture_06.png
-  artifactKey: Guid(280a4c667988ae241ac9f4642bb5a537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Veh/PolygonApocalypse_Veh_Texture_06.png using Guid(280a4c667988ae241ac9f4642bb5a537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b972bc8677686ab5c11af7d500f705') in 0.058425 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.023968 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_01_A.mat
-  artifactKey: Guid(09c76973314790040b9ef284977d7e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_01_A.mat using Guid(09c76973314790040b9ef284977d7e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db94d8510cd636e51df7d64b520de172') in 0.325088 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_04_C.mat
-  artifactKey: Guid(c1b49ebf9fa601f49839673b6066b4e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_04_C.mat using Guid(c1b49ebf9fa601f49839673b6066b4e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '598623829846f0252341a61084695b4b') in 0.306585 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_03_A.mat
-  artifactKey: Guid(80bcad2551f0c9049b69de9d01ca7463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_03_A.mat using Guid(80bcad2551f0c9049b69de9d01ca7463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a44ead3eb154cfb4432e3bbf142e1a0') in 0.422415 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Emissive_01.png
-  artifactKey: Guid(52544eaa2c194144ab7b28fa647d781c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Emissive_01.png using Guid(52544eaa2c194144ab7b28fa647d781c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a931cb23259202f38943dcb7325d701') in 0.056635 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000268 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_02_B.mat
-  artifactKey: Guid(e6ba70160d107854b899d32cc6f26cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_02_B.mat using Guid(e6ba70160d107854b899d32cc6f26cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd0ca22f140e4bb51e264214b3b4df8') in 0.311193 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000261 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_01_B.mat
-  artifactKey: Guid(0a96fc22949f5d844a5b0bd9a89c09d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_01_B.mat using Guid(0a96fc22949f5d844a5b0bd9a89c09d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eea49da55c1a4a6eb46ed4c75211bda4') in 0.304763 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_03_B.mat
-  artifactKey: Guid(25f690c79415e634aab1ad9b96c82d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_03_B.mat using Guid(25f690c79415e634aab1ad9b96c82d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a145eb7b18213bcf68d4395307cf6474') in 0.302438 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_01_C.mat
-  artifactKey: Guid(a6041d9bc786922448e4ca3a6053ff65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_01_C.mat using Guid(a6041d9bc786922448e4ca3a6053ff65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '978dc5291437101e611b6d3f577f2709') in 0.314721 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_04_B.mat
-  artifactKey: Guid(ecc4e2f2232137a44929c5ed4cf06818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_04_B.mat using Guid(ecc4e2f2232137a44929c5ed4cf06818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e5ae131e625453f85053a177a997739') in 0.301260 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_03_C.mat
-  artifactKey: Guid(c294e1418a779b5408df160ec5940364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_03_C.mat using Guid(c294e1418a779b5408df160ec5940364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b7b31b57a782d7b7c334c8a63d9ff2e') in 0.323078 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_02_A.mat
-  artifactKey: Guid(532e7397a65f03c45b192469594faf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_02_A.mat using Guid(532e7397a65f03c45b192469594faf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697765af0110cb7fdce8f92eb7b31540') in 0.303955 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_02_C.mat
-  artifactKey: Guid(cb55b56ee2c6f054c918f36b7dee35da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_02_C.mat using Guid(cb55b56ee2c6f054c918f36b7dee35da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af4dd871c144d5684b1f63a7c742ae8d') in 0.385815 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_04_A.mat
-  artifactKey: Guid(358636c84e2fa3549926a3c00b431c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Character_Mats/PolygonApocalypse_Material_Chr_04_A.mat using Guid(358636c84e2fa3549926a3c00b431c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ed59febe8ae4fb069b731a7eef34f8a') in 0.300179 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.146205 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Background_Bunker.mat
-  artifactKey: Guid(29788c90c0704194e8fb3c930a7f83a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Background_Bunker.mat using Guid(29788c90c0704194e8fb3c930a7f83a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca17b4bd85987da2509ab3aedf044ad0') in 0.029663 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Material_Dirty_01.mat
-  artifactKey: Guid(e53ee67879a38444fa41d9568a485e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Material_Dirty_01.mat using Guid(e53ee67879a38444fa41d9568a485e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f03252bd2a47f5d305a25eec04898406') in 0.222842 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000313 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Material_Overgrowth_01.mat
-  artifactKey: Guid(26f067e9e8c4bbb4eb122a5fe9073531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Material_Overgrowth_01.mat using Guid(26f067e9e8c4bbb4eb122a5fe9073531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '817d9774f4a4d5e1565c95c84cde0036') in 0.024062 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000300 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Rubble_01.mat
-  artifactKey: Guid(9807de85c52c6af4a8fc548e1765e6df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Rubble_01.mat using Guid(9807de85c52c6af4a8fc548e1765e6df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35faee4b3fd0c52357716f903e99f416') in 0.106158 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Skydome_Day.mat
-  artifactKey: Guid(0623e716898477e479ee51633ab41620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Skydome_Day.mat using Guid(0623e716898477e479ee51633ab41620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4c67a473c0a93221237b8c2bf5ffcab') in 0.091666 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000206 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Background_Mountains_01.mat
-  artifactKey: Guid(cae48a5b627bc1f44863e62ff5e40125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Background_Mountains_01.mat using Guid(cae48a5b627bc1f44863e62ff5e40125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e16d1f4a1987305cbd9419f34aee62') in 0.033235 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Swamp_Water.mat
-  artifactKey: Guid(d95a681695d427e47a1f637e82acd420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Swamp_Water.mat using Guid(d95a681695d427e47a1f637e82acd420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c8a252162fc11c0971a43ef5ceec4c8') in 0.262587 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Water.mat
-  artifactKey: Guid(ee711fe130d526443ac4f86b63f9e978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Water.mat using Guid(ee711fe130d526443ac4f86b63f9e978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90ad9a641d2168e5299f39f1112a5ae3') in 0.008877 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Material_Glass_01.mat
-  artifactKey: Guid(a9dbb0aba97b90747a297c5086113594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Material_Glass_01.mat using Guid(a9dbb0aba97b90747a297c5086113594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06bc72a2870e6a1e346129eab3f44f75') in 0.191196 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Background_Mountains_03.mat
-  artifactKey: Guid(a1836274c62afa74eae8271ec157fa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Background_Mountains_03.mat using Guid(a1836274c62afa74eae8271ec157fa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e120f460e4ab09b96e61770586d1c899') in 0.008464 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Material_Fence_01.mat
-  artifactKey: Guid(dcf2d1e73747aee4bafc4fb3f0807f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Material_Fence_01.mat using Guid(dcf2d1e73747aee4bafc4fb3f0807f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13b4337a0bd61b3716bc1644d32dfd2e') in 0.208908 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000231 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Material_01_A_Temp.mat
-  artifactKey: Guid(84db59bbbc7c6b9448e1322ab91e08b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Material_01_A_Temp.mat using Guid(84db59bbbc7c6b9448e1322ab91e08b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b985d90126b4acbbbae6f2e33ae80bfa') in 0.018790 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Background_Mountains_02.mat
-  artifactKey: Guid(8e84f04f3ad7d044c99fc05756606cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Background_Mountains_02.mat using Guid(8e84f04f3ad7d044c99fc05756606cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f20c393be634826b24babc97ac132ded') in 0.010451 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000206 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Clouds.mat
-  artifactKey: Guid(7851f998ad3adbc48884170cfa462fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Clouds.mat using Guid(7851f998ad3adbc48884170cfa462fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44999e90ba0901c8f52f583e95c2518a') in 0.056893 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Ocean.mat
-  artifactKey: Guid(da308fa8ec821e449a18115a733d5a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Ocean.mat using Guid(da308fa8ec821e449a18115a733d5a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e8d02b314796254b4bf5661da785f2') in 0.009533 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Veh_Glass.mat
-  artifactKey: Guid(569d56bd8be49434a947c7238e1bf4e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Veh_Glass.mat using Guid(569d56bd8be49434a947c7238e1bf4e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da002ad7a05859514228e619d3b968aa') in 0.113228 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Billboard_01.mat
-  artifactKey: Guid(0352299dc9b53254fbcf64f2f3af3985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/PolygonApocalypse_Billboard_01.mat using Guid(0352299dc9b53254fbcf64f2f3af3985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac52b7be608d8b025626f031c9faf57c') in 0.103724 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 14.619144 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/Shader
-  artifactKey: Guid(05b0f2d3e6bfdba4a92b10a6bffea574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/Shader using Guid(05b0f2d3e6bfdba4a92b10a6bffea574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eacad5098cbc8ca407db27de4f81ca55') in 0.021249 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.929936 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/Shader/POLYGON_Triplanar.shader
-  artifactKey: Guid(3ff172f4a7829844d8f2a4be79a544bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/Shader/POLYGON_Triplanar.shader using Guid(3ff172f4a7829844d8f2a4be79a544bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25b36a5f300e87a54b353e83773bf3dd') in 0.004893 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.961208 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/Shader/POLYGON_Zombies.shader
-  artifactKey: Guid(a7331fc07349b124c8c15d545676f9ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/Shader/POLYGON_Zombies.shader using Guid(a7331fc07349b124c8c15d545676f9ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63814f0c2a718aa88fa0804cf46d8c9') in 0.003355 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.483243 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/Misc/Shader/SkyGradient.shader
-  artifactKey: Guid(fefd59ec9a96d744aa1f9f12938abd4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/Misc/Shader/SkyGradient.shader using Guid(fefd59ec9a96d744aa1f9f12938abd4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f88ed03c28750b3ea8b3968f72cf5829') in 0.003288 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 175.869681 seconds.
-  path: Assets/Assets3D/Polygonal Modern Weapons Asset Package/Art/Textures/atlass_1_diffuse.png
-  artifactKey: Guid(bb8118f34410a604dbf31c021fae3009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Polygonal Modern Weapons Asset Package/Art/Textures/atlass_1_diffuse.png using Guid(bb8118f34410a604dbf31c021fae3009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d2c97c38deb5d8ad02542646e39a88') in 0.031990 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 14.377318 seconds.
-  path: Assets/Sprite/close.png
-  artifactKey: Guid(0bbd2b6836e86a045b2737d996d5b909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/close.png using Guid(0bbd2b6836e86a045b2737d996d5b909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c50a4048aa0175b7b2aa9f20fda529c5') in 0.095775 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.878958 seconds.
-  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
-  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e350654284201b0810ef5f4971716468') in 0.014745 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.433027 seconds.
-  path: Assets/Assets3D/Characters/Texture/EnemyBodyPolyart.png
-  artifactKey: Guid(f0b1c3b4f58fd6d4ab9cd2cec6695b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Characters/Texture/EnemyBodyPolyart.png using Guid(f0b1c3b4f58fd6d4ab9cd2cec6695b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78131fa93c44bf67b7d1f920926415dc') in 0.039192 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.412123 seconds.
-  path: Assets/Fonts/Bungee/Bungee-Regular.ttf
-  artifactKey: Guid(9ba428d41d7676c46a6b58bf84de23db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Fonts/Bungee/Bungee-Regular.ttf using Guid(9ba428d41d7676c46a6b58bf84de23db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008d5d3b558ffcec201632fdaf849d60') in 0.041381 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.581293 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Editor/Fonts/Roboto/Roboto-Bold.ttf
-  artifactKey: Guid(26a32e627fb084948ad18b8af0f356b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Editor/Fonts/Roboto/Roboto-Bold.ttf using Guid(26a32e627fb084948ad18b8af0f356b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ea30de4b5db85701909bf87fe44092d') in 0.023327 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.225128 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Editor/Fonts/Roboto/Roboto-Medium.ttf
-  artifactKey: Guid(fbfe696d18b99b946afae6126b37c025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Editor/Fonts/Roboto/Roboto-Medium.ttf using Guid(fbfe696d18b99b946afae6126b37c025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b7fe73bd3b8146dcfec2fb2d1112369') in 0.011809 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.217013 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Editor/Fonts/Roboto/Roboto-Regular.ttf
-  artifactKey: Guid(8a406076b7de34849be1f35585875a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Editor/Fonts/Roboto/Roboto-Regular.ttf using Guid(8a406076b7de34849be1f35585875a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4976a54e2c3610937eb51bd9215381ba') in 0.015073 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.228588 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Editor/Fonts/sen/sen-bold.otf
-  artifactKey: Guid(21b3731dcedecc546bf47de8757b4e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Editor/Fonts/sen/sen-bold.otf using Guid(21b3731dcedecc546bf47de8757b4e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c4dd6546f5bc37f27ccbd111f35e85') in 0.014117 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.177276 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Editor/Fonts/sen/sen-regular.otf
-  artifactKey: Guid(1c46d7c29c394ca4686ed5107ea64a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Editor/Fonts/sen/sen-regular.otf using Guid(1c46d7c29c394ca4686ed5107ea64a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5337713ce983b9ea85e39e80d031450d') in 0.011782 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.181086 seconds.
-  path: Assets/Fonts/Bungee_Inline/BungeeInline-Regular.ttf
-  artifactKey: Guid(b6840f634192a624cb51be0a5690ca66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Fonts/Bungee_Inline/BungeeInline-Regular.ttf using Guid(b6840f634192a624cb51be0a5690ca66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47437c7fae322d7bd1fce51c1074432e') in 0.011689 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.585177 seconds.
-  path: Assets/Sprite/haptics.png
-  artifactKey: Guid(d0894dcfdaced904596541d17aca6690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/haptics.png using Guid(d0894dcfdaced904596541d17aca6690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b81b96eb18ec183c66d8aeb8c05376') in 0.027670 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.891245 seconds.
-  path: Assets/Sprite/Icon.jpg
-  artifactKey: Guid(013c88ace97c7a149985fae7ee4ceeaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Icon.jpg using Guid(013c88ace97c7a149985fae7ee4ceeaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9691a113e03d7a375dcc33b3103c99d2') in 0.015247 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.796000 seconds.
-  path: Assets/Sprite/Icon (2).jpg
-  artifactKey: Guid(ecdd8fc138533834bb7d202ba45f60f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Icon (2).jpg using Guid(ecdd8fc138533834bb7d202ba45f60f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7952a7702fb31ce2ddfef9140139fd3') in 0.021618 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.952960 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC 4 Colors.png
-  artifactKey: Guid(dde49ae1cadcc4848a8978c7bf8d5671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC 4 Colors.png using Guid(dde49ae1cadcc4848a8978c7bf8d5671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49fee205613597eddee635edea110f97') in 0.010228 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.236823 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Additive 1.png
-  artifactKey: Guid(4a2220c954a7264459efb3be35445157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Additive 1.png using Guid(4a2220c954a7264459efb3be35445157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f45077635ca0646c02a6abb5fd76e0c') in 0.013303 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.520814 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Additive 2.png
-  artifactKey: Guid(65282ed7102afc4489337b34cbf9bbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Additive 2.png using Guid(65282ed7102afc4489337b34cbf9bbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a82cc138ebfd731c9eeb509ed2a4b42') in 0.017832 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.213504 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Additive 3.png
-  artifactKey: Guid(999c0a8caecef6e4b997f93a5af758bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Additive 3.png using Guid(999c0a8caecef6e4b997f93a5af758bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52492a5d6aba98d28c158c2f9678e6d4') in 0.017093 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.211788 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Backlit.png
-  artifactKey: Guid(416c7f674f095e24da39aa14c96202a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Backlit.png using Guid(416c7f674f095e24da39aa14c96202a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61924a57b7dce2239b669cb91a5d52cb') in 0.009392 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.246515 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Backlit 2.png
-  artifactKey: Guid(e490af91a9f72504b87e28701a1425af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Backlit 2.png using Guid(e490af91a9f72504b87e28701a1425af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebb9e8b70ea83a0ea46859359f45bf34') in 0.008950 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.250987 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Basic 1.png
-  artifactKey: Guid(330811522a36c0e41bd3db6f76848d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Basic 1.png using Guid(330811522a36c0e41bd3db6f76848d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a643dda1622375664293caa887b2aab9') in 0.009547 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.224757 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Basic 2.png
-  artifactKey: Guid(4f560d178ce29474aa8099a72c40feb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Basic 2.png using Guid(4f560d178ce29474aa8099a72c40feb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f4835f53b8d0819cc829fdca5af54b') in 0.009922 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.959490 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Basic 3.png
-  artifactKey: Guid(25f8197ce96046f478b2322e6b45c090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Basic 3.png using Guid(25f8197ce96046f478b2322e6b45c090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdc16ea85b5eccadfdc7ea5a9bab61b9') in 0.079519 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.141034 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Cyan and Purple.png
-  artifactKey: Guid(66c5a6eef50c4524ca969773d4903be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Cyan and Purple.png using Guid(66c5a6eef50c4524ca969773d4903be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aba682dc1bb088fbe0a6fd0c318fc91') in 0.010004 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.339269 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Frontlit.png
-  artifactKey: Guid(be8f4eca082cf42439e1f8efe1eb3d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Frontlit.png using Guid(be8f4eca082cf42439e1f8efe1eb3d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd922ce3203421c3c80fac1b528fa2eda') in 0.009439 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.268874 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Metal Copper.png
-  artifactKey: Guid(382db576e3b678b4ea33e8a4b4647ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Metal Copper.png using Guid(382db576e3b678b4ea33e8a4b4647ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c79c5ee7e3c54550c3aeff20805ea300') in 0.009138 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.248248 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Metal Gold.png
-  artifactKey: Guid(05cb8fab23c8ef9429ebaf3150311a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Metal Gold.png using Guid(05cb8fab23c8ef9429ebaf3150311a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364573d742b2ccda84d20c9f83738d2e') in 0.010038 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.300080 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Metal Silver.png
-  artifactKey: Guid(bf651ec0a540a5541acf02ef0c0d525d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Metal Silver.png using Guid(bf651ec0a540a5541acf02ef0c0d525d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14122ad8ea1b1dff0a9e8db89067e9e7') in 0.009854 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.254932 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Metallic Rough.png
-  artifactKey: Guid(dc03136440dee8845a1b4d55a54fef70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Metallic Rough.png using Guid(dc03136440dee8845a1b4d55a54fef70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d16c249fbb84ac9c92adf11e871a7fc') in 0.013233 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.251389 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Metallic Rough Orange.png
-  artifactKey: Guid(1c6b0e9805d2a104fb8e0e4f8e15322e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Metallic Rough Orange.png using Guid(1c6b0e9805d2a104fb8e0e4f8e15322e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b39f77b8b73b9de317503afa8c51bd') in 0.009652 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.038609 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Metallic Shiny.png
-  artifactKey: Guid(707658b05bb04cf46b37cd576917d084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Metallic Shiny.png using Guid(707658b05bb04cf46b37cd576917d084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6296230951ec927d7206d9c238e86192') in 0.009757 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.176630 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Metallic Shiny Orange.png
-  artifactKey: Guid(904a7bba824ee0c418826440aa824947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Metallic Shiny Orange.png using Guid(904a7bba824ee0c418826440aa824947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a783b03b04be323c4d5eef30dbfe563') in 0.009559 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.234001 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Orange and Teal.png
-  artifactKey: Guid(ef309140cf1453b4b93171004e4bd179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Orange and Teal.png using Guid(ef309140cf1453b4b93171004e4bd179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330d3f3a34e88b5a95b2e43a81ef17cc') in 0.019934 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.225876 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Orange and Teal 2.png
-  artifactKey: Guid(83aa404d4631efd44a53cbc98427bf1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Orange and Teal 2.png using Guid(83aa404d4631efd44a53cbc98427bf1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '050d270047a8f06ad942f64115cef94e') in 0.009201 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.192162 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Rainbow.png
-  artifactKey: Guid(cda2f2cd49bff5a4fa9d69729f6b393c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Rainbow.png using Guid(cda2f2cd49bff5a4fa9d69729f6b393c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3679c7311ecbad2602f3cc370f5ee89') in 0.009519 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.210138 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Rainbow Shiny.png
-  artifactKey: Guid(7b2d79b5fdab0ee408373030bc867629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Rainbow Shiny.png using Guid(7b2d79b5fdab0ee408373030bc867629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5d9b100a1c855c30189042f47c074b2') in 0.009774 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.205997 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Red Highlight.png
-  artifactKey: Guid(766f99fe9d13b8244aa914a9edf9224a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Red Highlight.png using Guid(766f99fe9d13b8244aa914a9edf9224a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19e0e07cbae90bb8d7c2ac264da849c9') in 0.009908 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.246913 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Red Highlight 2.png
-  artifactKey: Guid(89da13b6c5b2314479ce9f80edc02727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Red Highlight 2.png using Guid(89da13b6c5b2314479ce9f80edc02727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '242289f9e19642aa7395e86a0a95bedf') in 0.009772 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.255676 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Reflection.png
-  artifactKey: Guid(b3cb059a9f88e9b42b7df11e48963196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Reflection.png using Guid(b3cb059a9f88e9b42b7df11e48963196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6bf33c7a8911dffdfe79600bc190055') in 0.009656 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.192374 seconds.
-  path: Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Reflection 2.png
-  artifactKey: Guid(a814fd27b523f734eb59ae2adb93a8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/Toony Colors Pro/Textures/MatCap/MC Reflection 2.png using Guid(a814fd27b523f734eb59ae2adb93a8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd913822fcb2cadbfa25df86e471dec2d') in 0.009830 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.806071 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Misc/Overgrowth.png
-  artifactKey: Guid(a03a3c794ddc263449b7f54c9c61536d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Misc/Overgrowth.png using Guid(a03a3c794ddc263449b7f54c9c61536d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234cf7e2092f31e794f2e7ce08de4125') in 0.021655 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.223266 seconds.
-  path: Assets/Sprite/Partical.png
-  artifactKey: Guid(944dfba9955ee0942840d9add306c781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprite/Partical.png using Guid(944dfba9955ee0942840d9add306c781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab6d3430065964f8e560cd3bad5b1dca') in 0.008803 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 12.589816 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Blood_Alt.png
-  artifactKey: Guid(3cdfe517960b2ac4d8cdcd666a5654dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Blood_Alt.png using Guid(3cdfe517960b2ac4d8cdcd666a5654dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a258282e2eb7a4e643ed935b15be3225') in 0.059232 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.510946 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Emissive_02.png
-  artifactKey: Guid(1bd22cc0c97ce3b40a42329d905456d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Emissive_02.png using Guid(1bd22cc0c97ce3b40a42329d905456d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a8a2c53063602cce0e083c9bd163dd') in 0.055027 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.182737 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Emissive_03.png
-  artifactKey: Guid(93fcbf7115e59d94ca31e613baf190e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Emissive_03.png using Guid(93fcbf7115e59d94ca31e613baf190e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '141e90c42a2573d12570f05503c4cde6') in 0.060308 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.196861 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Emissive_04.png
-  artifactKey: Guid(7e4f87424b459b846a0cf6fbf3d4cc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Emissive_04.png using Guid(7e4f87424b459b846a0cf6fbf3d4cc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9605c6dcd187a8cdea55c679cd8f1f3a') in 0.055074 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.108343 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Normal.png
-  artifactKey: Guid(5c99cec570bb90c4db42c3a608969eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Normal.png using Guid(5c99cec570bb90c4db42c3a608969eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd6b676bb46b9b8c0809b6881711f5aa') in 0.229179 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.373034 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Rubble_01.png
-  artifactKey: Guid(ac6d093243d7f6e4881209f3683968a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Rubble_01.png using Guid(ac6d093243d7f6e4881209f3683968a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea994598b8e00406ff795d8ff8f8e818') in 0.061557 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.535209 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Texture_01_Burnt.png
-  artifactKey: Guid(7cf05177d0dec624ea8db303943222cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Textures/Misc/PolygonApocalypse_Texture_01_Burnt.png using Guid(7cf05177d0dec624ea8db303943222cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833a8321ac3f70770f8e960b045b4a4d') in 0.213417 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 259.925309 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Materials/PolygonApocalypse_Material_01_A.mat
-  artifactKey: Guid(5bb68a94905ffc0418608fc7e572ea42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Materials/PolygonApocalypse_Material_01_A.mat using Guid(5bb68a94905ffc0418608fc7e572ea42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ae14f5eb9fd8157a215d0508bd03de2') in 0.646263 seconds 
+  Time since last request: 56.216131 seconds.
+  path: Assets/Scripts/Camera/CameraMover.cs
+  artifactKey: Guid(2c6eba52238547b459b31ac4a12a30eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Camera/CameraMover.cs using Guid(2c6eba52238547b459b31ac4a12a30eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07bfc3b883cf9662aec20fe6f86078a2') in 0.020312 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003976 seconds.
+Registered in 0.003465 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.86 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.66 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.779 seconds
+- Completed reload, in  1.135 seconds
 Platform modules already initialized, skipping
 Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 2.25 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.75 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2911 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 260.8 MB.
-System memory in use after: 261.0 MB.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.5 MB.
+System memory in use after: 140.7 MB.
 
-Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 4315.
-Total: 3.016900 ms (FindLiveObjects: 0.540800 ms CreateObjectMapping: 0.086300 ms MarkObjects: 2.252600 ms  DeleteObjects: 0.135700 ms)
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3322.
+Total: 3.091200 ms (FindLiveObjects: 0.252200 ms CreateObjectMapping: 0.075200 ms MarkObjects: 2.602700 ms  DeleteObjects: 0.159300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
 Received Import Request.
-  Time since last request: 869.623168 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/Andrew_Rubble_01.mat
-  artifactKey: Guid(a8d0c3b324fbb4448a7927e5a45c50b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/Andrew_Rubble_01.mat using Guid(a8d0c3b324fbb4448a7927e5a45c50b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+  Time since last request: 113.359220 seconds.
+  path: Assets/Scripts/Camera/CameraMover.cs
+  artifactKey: Guid(2c6eba52238547b459b31ac4a12a30eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Camera/CameraMover.cs using Guid(2c6eba52238547b459b31ac4a12a30eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a966841753d530b377c65d941dfa23') in 0.006780 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003779 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.028 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.6 MB.
+System memory in use after: 140.7 MB.
 
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3325.
+Total: 2.444100 ms (FindLiveObjects: 0.314600 ms CreateObjectMapping: 0.100600 ms MarkObjects: 1.899400 ms  DeleteObjects: 0.127700 ms)
 
- -> (artifact id: '588e29e0e8058e88d67fb6b833f2f74e') in 0.174883 seconds 
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004041 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.119 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.6 MB.
+System memory in use after: 140.8 MB.
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3328.
+Total: 2.165300 ms (FindLiveObjects: 0.252300 ms CreateObjectMapping: 0.075300 ms MarkObjects: 1.710400 ms  DeleteObjects: 0.126100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonApocalypse_Texture_01_Cleaned.mat
-  artifactKey: Guid(b80fd6d9d4bf1404296f13da86e1f8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonApocalypse_Texture_01_Cleaned.mat using Guid(b80fd6d9d4bf1404296f13da86e1f8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
-
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
-
- -> (artifact id: '3e1aa8d597ba17a8e62e02ea14187ae9') in 0.008327 seconds 
+  Time since last request: 37.943618 seconds.
+  path: Assets/Scripts/Camera/CameraMover.cs
+  artifactKey: Guid(2c6eba52238547b459b31ac4a12a30eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Camera/CameraMover.cs using Guid(2c6eba52238547b459b31ac4a12a30eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd039b63af23b3c8fd55326ea62d29523') in 0.007782 seconds 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/SimpleSky.mat
-  artifactKey: Guid(b3f5c64e7721e4e4cbb807c668321a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/SimpleSky.mat using Guid(b3f5c64e7721e4e4cbb807c668321a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004136 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.096 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 2.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.6 MB.
+System memory in use after: 140.8 MB.
 
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3331.
+Total: 2.622400 ms (FindLiveObjects: 0.271500 ms CreateObjectMapping: 0.193400 ms MarkObjects: 2.009500 ms  DeleteObjects: 0.146400 ms)
 
- -> (artifact id: '827ebd89d89cb03ecb95f0a40143f64e') in 0.008464 seconds 
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonWar_Texture.mat
-  artifactKey: Guid(3356364c2b975f44db387dd4a14242c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonWar_Texture.mat using Guid(3356364c2b975f44db387dd4a14242c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003440 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.094 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 2.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.6 MB.
+System memory in use after: 140.8 MB.
 
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3334.
+Total: 2.391500 ms (FindLiveObjects: 0.364100 ms CreateObjectMapping: 0.115000 ms MarkObjects: 1.746100 ms  DeleteObjects: 0.165300 ms)
 
- -> (artifact id: '421c2437d36f727b8e00ed7ffa427279') in 0.035337 seconds 
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000331 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonApocalyse_Road_01.mat
-  artifactKey: Guid(286c52ed95d8e8c4995ea9693d9bd04f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonApocalyse_Road_01.mat using Guid(286c52ed95d8e8c4995ea9693d9bd04f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005014 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.062 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.7 MB.
+System memory in use after: 140.8 MB.
 
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3337.
+Total: 2.140200 ms (FindLiveObjects: 0.254000 ms CreateObjectMapping: 0.076700 ms MarkObjects: 1.691500 ms  DeleteObjects: 0.116600 ms)
 
- -> (artifact id: '79fe5dd4f78b8410b3e3b2a30eda8133') in 0.008216 seconds 
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/pasted__lambert2.mat
-  artifactKey: Guid(7b185662379782d4fa7ef91991454dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/pasted__lambert2.mat using Guid(7b185662379782d4fa7ef91991454dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003656 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.106 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.7 MB.
+System memory in use after: 140.8 MB.
 
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3340.
+Total: 2.672400 ms (FindLiveObjects: 0.311400 ms CreateObjectMapping: 0.074800 ms MarkObjects: 2.148400 ms  DeleteObjects: 0.136100 ms)
 
- -> (artifact id: 'c6f999774977eef62f6a398605663576') in 0.008583 seconds 
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/lambert32.mat
-  artifactKey: Guid(99dadec3f11cfdf4aa6a741cbf9a7d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/lambert32.mat using Guid(99dadec3f11cfdf4aa6a741cbf9a7d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005202 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.159 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 2.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.7 MB.
+System memory in use after: 140.8 MB.
 
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3343.
+Total: 2.327900 ms (FindLiveObjects: 0.284900 ms CreateObjectMapping: 0.076200 ms MarkObjects: 1.830700 ms  DeleteObjects: 0.134600 ms)
 
- -> (artifact id: 'd44125da0b485e6e53b9d005baf6e065') in 0.008395 seconds 
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/lambert921.mat
-  artifactKey: Guid(00b2b847bc2c4524798f5805c1930b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/lambert921.mat using Guid(00b2b847bc2c4524798f5805c1930b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004462 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image D:\Git\SniperGunFight\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.181 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.7 MB.
+System memory in use after: 140.8 MB.
 
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 3346.
+Total: 2.191200 ms (FindLiveObjects: 0.278000 ms CreateObjectMapping: 0.079500 ms MarkObjects: 1.710200 ms  DeleteObjects: 0.122400 ms)
 
- -> (artifact id: '14785fcb3cbc0145c5616000cb0b5f66') in 0.008478 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonApocalypse_Texture_01_4k.mat
-  artifactKey: Guid(47a59edc31d70aa4f8447313f4b41364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonApocalypse_Texture_01_4k.mat using Guid(47a59edc31d70aa4f8447313f4b41364) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
-
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
-
- -> (artifact id: 'fef181b9409b4ee403e62c022dbed66e') in 0.105687 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonDrugs_Texture_01_A.mat
-  artifactKey: Guid(2327fb95d6eb54d428f728932a0ff859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonDrugs_Texture_01_A.mat using Guid(2327fb95d6eb54d428f728932a0ff859) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
-
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
-
- -> (artifact id: 'aedb549abacbbe505470da0c8263e558') in 0.014018 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000223 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonApocalypse_Texture_01_Cleaned_jason.mat
-  artifactKey: Guid(dae8cdb3f07388e4185f08f3a51d4936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonApocalypse_Texture_01_Cleaned_jason.mat using Guid(dae8cdb3f07388e4185f08f3a51d4936) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
-
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
-
- -> (artifact id: '16c1bb1242c4c0f3887bb5460944cb85') in 0.009411 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/lambert33.mat
-  artifactKey: Guid(fed50b180f28a97499ad9aa665a61beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/lambert33.mat using Guid(fed50b180f28a97499ad9aa665a61beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
-
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
-
- -> (artifact id: '7f19926680ba5895f48ecc5e5cc30ed5') in 0.008339 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/lambert1.mat
-  artifactKey: Guid(e2ca3b6b6f2fdff468b9c14ceb2d4033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/lambert1.mat using Guid(e2ca3b6b6f2fdff468b9c14ceb2d4033) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
-
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
-
- -> (artifact id: '229c3c1348fb96d1591f0fae17a0f724') in 0.031096 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/lambert661.mat
-  artifactKey: Guid(a1c61b4100a7e4e4fa42d41e13f99cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/lambert661.mat using Guid(a1c61b4100a7e4e4fa42d41e13f99cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
-
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
-
- -> (artifact id: '1c7b11f222ad27f4de24aa91258a3aa3') in 0.009660 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000261 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonPrototype_Texture_01.mat
-  artifactKey: Guid(cdab42ba038f7d44895a6c63591ebca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonPrototype_Texture_01.mat using Guid(cdab42ba038f7d44895a6c63591ebca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
-
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
-
- -> (artifact id: 'e19ac79caf52183d3ca11e22bb31d9d5') in 0.102993 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/lambert922.mat
-  artifactKey: Guid(44ac07318eaa7934fb6862c67cc8db72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/lambert922.mat using Guid(44ac07318eaa7934fb6862c67cc8db72) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
-
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
-
- -> (artifact id: 'f9908c19297f0de1f273941c7b820db6') in 0.009242 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000322 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonFarm_Texture_02.mat
-  artifactKey: Guid(e63c22df898c5b54591e05b7e63e5e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/PolygonFarm_Texture_02.mat using Guid(e63c22df898c5b54591e05b7e63e5e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
-
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
-
- -> (artifact id: 'dbcaa48710b9db08f4776b247a2ecd6a') in 0.020634 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/Overgrowth.mat
-  artifactKey: Guid(df5825a13aa2f194a997e3c339206813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/Overgrowth.mat using Guid(df5825a13aa2f194a997e3c339206813) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
-
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
-
- -> (artifact id: '467c3ffad3a479ff6788775d0b7e4ac2') in 0.009883 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000272 seconds.
-  path: Assets/Assets3D/PolygonApocalypse/Models/Materials/Land_Vehicle_Master_01.mat
-  artifactKey: Guid(629bb0efa29ddb2498eec3b1cd3930e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets3D/PolygonApocalypse/Models/Materials/Land_Vehicle_Master_01.mat using Guid(629bb0efa29ddb2498eec3b1cd3930e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Unable to allocate new scene culling mask
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene (bool)
-UnityEditor.SceneManagement.EditorSceneManager:NewPreviewScene ()
-UnityEditor.PreviewScene:.ctor (string)
-UnityEditor.PreviewRenderUtility:.ctor ()
-UnityEditor.MaterialEditor:GetPreviewRendererUtility ()
-UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
-UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
-
-[C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
-
- -> (artifact id: '1d3de98c0ed79666e6dcd4f7c9b57c76') in 0.008225 seconds 
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000

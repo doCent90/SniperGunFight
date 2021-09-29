@@ -9,7 +9,7 @@ public class CameraMover : MonoBehaviour
     private bool _isReadyRotate;
 
     private const float Distance = 6f;
-    private const float Speed = 0.2f;
+    private const float Speed = 0.3f;
 
     private void OnEnable()
     {

@@ -33,19 +33,21 @@ public class PlayerMover : MonoBehaviour
     {
         Move();
 
-        if (transform.position == _points[_currentPointIndex].position && _points[_currentPointIndex] != _points[_points.Length - 1])
+        if (transform.position == _points[_currentPointIndex].position)
         {
             _currentPointIndex++;
             HasCurrentPositions = true;
         }
 
         if (_currentPointIndex == (_points.Length - 1))
-            IsLastWayPoint = true;            
+        {
+            IsLastWayPoint = true;
+        }
     }
 
     private void Move()
     {
-        if (transform.position != _points[_points.Length - 1].position)
+        if (!IsLastWayPoint)
         {
             transform.rotation = Quaternion.RotateTowards(transform.rotation, _points[_currentPointIndex].rotation, _rotateSpeed * Time.deltaTime);
             transform.position = Vector3.MoveTowards(transform.position, _points[_currentPointIndex].position, _moveSpeed * Time.deltaTime);

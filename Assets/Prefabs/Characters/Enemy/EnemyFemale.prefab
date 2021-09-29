@@ -829,7 +829,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _bloodFX: {fileID: 1204137417161882756}
   _transition: {fileID: 0}
-  _isNextStageFighter: 0
+  _isNextStageFighter: 1
 --- !u!114 &8671954602654474488
 MonoBehaviour:
   m_ObjectHideFlags: 0
