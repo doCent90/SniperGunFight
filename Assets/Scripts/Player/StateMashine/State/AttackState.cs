@@ -21,7 +21,7 @@ public class AttackState : StatePlayer
 
     private const float DelayBetweenShoot = 0.1f;
     private const float TimeScaleNormal = 1f;
-    private const float TimeScaleRapid = 0.5f;
+    private const float TimeScaleRapid = 0.4f;
     private const string ShootAnimation = "Shoot";
     private const string TargetAnimation = "LockTarget";
 
