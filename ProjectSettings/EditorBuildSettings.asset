@@ -17,4 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Test_Level.unity
     guid: b789b529b96d3134683ea1731b5c37b3
+  - enabled: 1
+    path: Assets/Assets3D/SimplePoly World/Demo Scenes/SPW_Demo_Scene_Medieval.unity
+    guid: f6791f9a443822746aa8b142fac58166
+  - enabled: 1
+    path: Assets/Assets3D/SimplePoly World/Demo Scenes/SPW_Demo_Scene_Farm.unity
+    guid: 5081dac1abcd70149b44456625c8a361
+  - enabled: 1
+    path: Assets/Assets3D/SimplePoly World/Demo Scenes/SPW_Demo_Scene_Urban.unity
+    guid: 49ff0be1598be304db82caac2c7ad600
   m_configObjects: {}
